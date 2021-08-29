@@ -65,4 +65,27 @@
 
 ![image](https://user-images.githubusercontent.com/79841341/131251056-821a07d9-88a6-42ce-b344-b8007f313952.png)
 
+## CheatSheet
+
+![image](https://user-images.githubusercontent.com/79841341/131255428-65493aad-6f20-48e7-a6c7-f74ebc4f26e8.png)
+
+![image](https://user-images.githubusercontent.com/79841341/131255461-a069bb69-6950-4754-b6f1-f5b925dff621.png)
+
+![image](https://user-images.githubusercontent.com/79841341/131255498-2339e3d6-0472-414b-8779-bea40b5abd19.png)
+
+# AWS Snowball, Snowball Edge, Snowmobile
+
+- Snowball: Petabyte-scale data transfer service. Move data onto AWS via physical briefcase computer.
+
+![image](https://user-images.githubusercontent.com/79841341/131255574-7672d12b-6ef2-4664-86cb-8d7089e3c999.png)
+
+- Snowball Edge: Similar to Snowball but with more storage and with local processing
+
+- Snowmobile: A 45-foot long ruggedized shipping container, pulled by a semi-trainler truck, transfer up to 100PB per Snowmobile.
+
+![image](https://user-images.githubusercontent.com/79841341/131255775-8dc82cfd-ce2c-4143-bda8-36ff6bfcacc0.png)
+
+# Virtual Private Cloud (VPC)
+
+![image](https://user-images.githubusercontent.com/79841341/131255823-a7596f0a-e1aa-4adf-9891-16c1a6420883.png)
 
