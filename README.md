@@ -61,4 +61,8 @@
 ## Presigned Urls
 ![image](https://user-images.githubusercontent.com/79841341/131251028-e43baefa-1acf-4534-8853-333a235f8298.png)
 
+## MFA Delete
+
+![image](https://user-images.githubusercontent.com/79841341/131251056-821a07d9-88a6-42ce-b344-b8007f313952.png)
+
 
