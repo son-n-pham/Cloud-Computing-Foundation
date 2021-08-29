@@ -33,3 +33,8 @@
 - Access control is configured using Bucket Policies and legacy Access Control Lists (ACL)
 
 ![image](https://user-images.githubusercontent.com/79841341/131250680-389fc6be-460b-4d52-b0e5-689785c50043.png)
+
+## Encryption
+
+![image](https://user-images.githubusercontent.com/79841341/131250725-f44a8f97-2de2-4b5b-81ec-82ceb5281e80.png)
+
