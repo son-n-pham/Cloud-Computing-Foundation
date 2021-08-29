@@ -19,7 +19,7 @@
 ### S3 Bucket:
 - Bucket hold objects, buckets can have folders which in turn hole objects
 - S3 is a universal namespace so bucket name must be unique.
-- 
+ 
 ![image](https://user-images.githubusercontent.com/79841341/131250329-1ef716b9-fc88-46de-ae46-f5eb53395dfc.png)
 
 ## Storage Classes:
@@ -49,4 +49,16 @@
 ## Versioning
 
 ![image](https://user-images.githubusercontent.com/79841341/131250876-598a2275-c2a8-4219-8dbf-9fe3639eb5a0.png)
+
+## Lifecycle Management
+
+![image](https://user-images.githubusercontent.com/79841341/131250930-f49700f3-5ca1-416d-8d2f-56d09724f019.png)
+
+## Transfer Acceleration:
+
+![image](https://user-images.githubusercontent.com/79841341/131250959-c71bffaf-9f3e-4b2d-8355-419d32ff411a.png)
+
+## Presigned Urls
+![image](https://user-images.githubusercontent.com/79841341/131251028-e43baefa-1acf-4534-8853-333a235f8298.png)
+
 
