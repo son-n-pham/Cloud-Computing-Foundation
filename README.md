@@ -37,3 +37,16 @@
 ## Encryption
 
 ![image](https://user-images.githubusercontent.com/79841341/131250742-70e9f968-3770-4e92-be87-a36d2318a236.png)
+
+## Data Consistency
+
+![image](https://user-images.githubusercontent.com/79841341/131250806-cc6d3eae-e37f-406f-b196-bf360f918b37.png)
+
+## Cross Region Replication (CRR)
+
+![image](https://user-images.githubusercontent.com/79841341/131250838-0e8c9a07-4910-42a5-8d59-ff771a3b5bb4.png)
+
+## Versioning
+
+![image](https://user-images.githubusercontent.com/79841341/131250876-598a2275-c2a8-4219-8dbf-9fe3639eb5a0.png)
+
