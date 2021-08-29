@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/79841341/131250533-0f164471-fb0d-4871-89aa-f8680ea92aec.png)
 
-![image](https://user-images.githubusercontent.com/79841341/131250574-aa62f02e-5a88-42cc-aa37-b30b446ed578.png)
+![image](https://user-images.githubusercontent.com/79841341/131250725-f44a8f97-2de2-4b5b-81ec-82ceb5281e80.png)
 
 ## Security:
 - All new buckets are **PRIVATE** by default
@@ -36,5 +36,4 @@
 
 ## Encryption
 
-![image](https://user-images.githubusercontent.com/79841341/131250725-f44a8f97-2de2-4b5b-81ec-82ceb5281e80.png)
-
+![image](https://user-images.githubusercontent.com/79841341/131250742-70e9f968-3770-4e92-be87-a36d2318a236.png)
